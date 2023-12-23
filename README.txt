@@ -28,3 +28,9 @@ Assignment4 is an engaging Hangman Game implemented in Python. It brings the cla
 - Guess a letter, and the game will promptly indicate if you guessed correctly or not.
 - Continue guessing letters until you successfully decipher the entire word.
 - Experience an engaging and interactive hangman challenge with each guess, testing your word-solving skills.
+
+3. GitHub Repository URL:
+   - https://github.com/nickikarimi/kari0106_A4 
+
+4. Docker Hub Image URL:
+   - https://hub.docker.com/layers/nickikarimi/main-image/latest/images/sha256:c870053d8f043a550725437f5d7f41bbfae9183add80257e53b9714f0d539cd1?uuid=D5616A77-B28D-4DA3-99EA-A76AC0009D43
